@@ -18,5 +18,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jeresig/node-bulk-replace/issues"
+  },
+  "dependencies": {
+    "quotemeta": "0.0.0"
   }
 }
